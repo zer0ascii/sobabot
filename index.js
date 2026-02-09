@@ -18,7 +18,7 @@ client.on("interactionCreate", async interaction => {
   if (interaction.commandName === "soba") {
     await interaction.reply({
       content: "🍜 **Soba says: Stay cool and eat noodles!** 😎",
-      files: ["https://i.imgur.com/6RLVZ5C.jpg"]
+      files: ["https://imgur.com/gallery/motocho-yurigaoka-QgNKwc5"]
     });
   }
 });
